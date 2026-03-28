@@ -1,0 +1,1 @@
+https://gitflic.ru/project/mathros/mfua/blob?file=how_git.md&branch=master&commit=2259eba36ffcc1e5cd5efcc1537130d7f0898b64&mode=markdown
